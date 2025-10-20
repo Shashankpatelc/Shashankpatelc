@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Shashankpatelc
-- 👀 I’m interested in programing
-- 🌱 I’m currently learning python any body help me to learn
+- 👀 I’m interested in programing amd computer stuffs 
+- 🌱 I love C++ and i know more languages like python, c, java, c# etc.....
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me. Recach me in GitHub
 
 <!---
 Shashankpatelc/Shashankpatelc is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
