@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 About Me :
 👋 Hi there! I'm Shashu<br><br>💻 I’m currently working on: a few C++ and web development projects to sharpen my problem-solving skills.<br><br>🤝 I’m looking to collaborate on: open-source projects related to algorithms, C++ projects , or educational tools and small projects in c, java, python ,..etc.<br><br>🧠 I’m looking for help with: building scalable backend systems and mastering advanced data structures.<br><br>🌱 I’m currently learning: modern C++,Advance Java, and a bit of Python for automation.<br><br>💬 Ask me about: clean code, debugging tricky logic, or how to approach DSA problems effectively.<br><br>⚡ Fun fact: I can spend hours optimizing one line of code just because it “doesn’t look right.”😄
 
 
